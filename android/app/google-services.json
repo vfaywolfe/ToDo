@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773361511967",
+    "project_id": "to-do-clkv8s",
+    "storage_bucket": "to-do-clkv8s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773361511967:android:ad3a3d8e9618773ab26f2a",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-39652pgiQG3_p2k9kAmHSHF-1_uvsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
