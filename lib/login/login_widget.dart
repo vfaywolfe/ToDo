@@ -780,6 +780,13 @@ class _LoginWidgetState extends State<LoginWidget>
                       ),
                   ],
                 ),
+                Text(
+                  'Hello World',
+                  style: FlutterFlowTheme.of(context).bodyMedium.override(
+                        fontFamily: 'Readex Pro',
+                        letterSpacing: 0.0,
+                      ),
+                ),
               ],
             ),
           ),
